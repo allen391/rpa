@@ -1,0 +1,12 @@
+﻿{
+  "Id": "uAmLyRMvLEC_nrgWl8PuwQ",
+  "Reference": "vUzTw64OK0yvC8RYK2XpVA/uAmLyRMvLEC_nrgWl8PuwQ",
+  "Name": "Chrome: 文件",
+  "Type": "App",
+  "Created": "2022-02-16T22:03:34.4165038Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-02-16T22:03:34.4165038Z"
+}

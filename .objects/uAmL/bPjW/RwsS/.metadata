@@ -1,0 +1,13 @@
+﻿{
+  "Id": "RwsSJUrdr0m0ThBBrCAL5A",
+  "Reference": "vUzTw64OK0yvC8RYK2XpVA/RwsSJUrdr0m0ThBBrCAL5A",
+  "ParentRef": "vUzTw64OK0yvC8RYK2XpVA/bPjW-tUpg0Wsklmy3SRPsQ",
+  "Name": "Chrome: 文件",
+  "Type": "Screen",
+  "Created": "2022-02-16T22:03:34.6427133Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-02-16T22:03:34.6427133Z"
+}

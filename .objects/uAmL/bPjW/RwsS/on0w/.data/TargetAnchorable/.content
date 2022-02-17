@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://wwt.lanzouj.com/i80xM002n5bc" ContentHash="0qcy6Ze1T0WiqrZls8iEnQ" DesignTimeRectangle="1042, 710, 75, 45" ElementType="Text" FriendlyName="'下载'" FullSelectorArgument="&lt;webctrl parentid='downajax' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='downajax' tag='A' type='' aaname='下载' check:text='下载' /&gt;" Guid="8633e6cd-5985-4eb4-9203-b61efbe6ab4f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='rpaTest.xlsx' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0qgnY5S6Ruk-EGPgtZkxgcA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="c9fe1c0772705e32a771fa19bccffa91.png" xmlns="">0xQssggX79E-esllx0kcyhw</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://wwt.lanzouj.com/i80xM002n5bc" ContentHash="jeCAH-tIPE6CatayaahNXA" DesignTimeRectangle="817, 535, 240, 45" ElementType="InputBox" FriendlyName="'INPUT pwd'" FullSelectorArgument="&lt;webctrl tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' aaname='' /&gt;" Guid="13f1a1e9-7dbc-427b-815b-c229eff0cf49" ScopeSelectorArgument="&lt;html app='chrome.exe' title='文件' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">00IF-AuzyL0CEDRDQvmNxmA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="751af5eec2d2cd18ff88bb45750e53b0.png" xmlns="">0FDNd08nPtU6EWIUJK3_sbg</imageRef>
+</TargetAnchorable>

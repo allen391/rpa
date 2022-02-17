@@ -1,0 +1,14 @@
+﻿{
+  "Id": "on0w15rgzUekzQEo2aEGEA",
+  "Reference": "vUzTw64OK0yvC8RYK2XpVA/on0w15rgzUekzQEo2aEGEA",
+  "ParentRef": "vUzTw64OK0yvC8RYK2XpVA/RwsSJUrdr0m0ThBBrCAL5A",
+  "Name": "下载",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-02-16T22:04:02.7317654Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-02-16T22:04:02.7317654Z"
+}
